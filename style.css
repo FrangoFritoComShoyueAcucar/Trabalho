@@ -1,0 +1,18 @@
+body { 
+    background-color: #f0dcb3;
+}
+
+#titulo {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.texto {
+    text-align: center;
+    color:rgb(197, 60, 156);
+    font-size: x-large;
+}
+.f{
+text-align: center;
+}
+
